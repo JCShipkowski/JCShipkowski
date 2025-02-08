@@ -6,8 +6,6 @@ UMO introduces a **new theorem-processing AI framework** that operates across **
 ## 📌 DOI & Technical Documentation
 The formal **Technical Summary** for UMO has been officially published on Zenodo with a **timestamped DOI**, ensuring proper attribution to its creator:
 
-🔗 **[Technical Summary on Zenodo](INSERT_DOI_LINK_HERE)**  
-
 This publication establishes **James C. Shipkowski as the original creator of UMO** and ensures that all references to UMO must cite his work.
 
 ## 🔥 Features
