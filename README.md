@@ -25,13 +25,6 @@ cd UMO
 
 ## 📜 License
 This repository follows the **Creative Commons Attribution License  CC BY-NC-ND 4.0 
-For full details, see the **[LICENSE](LICENSE) file**.
-
-## 📢 Contact & Community
-For research collaborations, inquiries, or to discuss UMO’s applications in AI and quantum computing, contact:  
-📧 **[Insert Contact Email Here]**  
-🌐 **[Insert Website or Social Media Links Here]**
-
+For full details, see the **[LICENSE](LICENSE) 
 ---
-
 🚀 **UMO is now publicly documented and timestamped! Join the future of theorem-driven AI.**  
