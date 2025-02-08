@@ -27,8 +27,7 @@ cd UMO
 
 ## 📜 License
 This repository follows the **Creative Commons Attribution License  CC BY-NC-ND 4.0
-- You **must** give appropriate credit to **James C. Shipkowski** as the original author.  
-- You **may modify and build upon UMO**, but **you must cite the original work**.  
+- You **must** give appropriate credit to **James C. Shipkowski** as the original author.    
 - Commercial use is allowed **only with proper attribution**.  
 
 For full details, see the **[LICENSE](LICENSE) file**.
